@@ -1,0 +1,11 @@
+.btn-primary.rounded {
+    border-radius: 80px !important;
+    width: 370px !important; 
+    background-color: #002c76;
+    
+  }
+  .btn-primary.rounded:disabled {
+    background-color: #9e9e9f96 !important;
+    color: #424242b9 !important;
+    border-color: #999b9f !important;
+  }
